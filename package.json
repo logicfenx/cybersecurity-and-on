@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/cybersecurity-and-on",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a cybersecurity-and-on",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/cybersecurity-and-on.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://impactandlearning.org/cybersecurity-and-online-education/"
+    },
+    "homepage": "https://impactandlearning.org/cybersecurity-and-online-education/"
+}
